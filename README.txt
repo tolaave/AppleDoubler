@@ -1,4 +1,4 @@
-AppleDoubler tool for M.A:C.E. and other emulators
+AppleDoubler tool for M.A.C.E. (and other emulators)
 
 DESCRIPTION
 ===========
